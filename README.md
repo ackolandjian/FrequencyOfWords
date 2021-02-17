@@ -2,8 +2,7 @@
 
 [![](./img/logo.png)](https://www.ackolandjian.tk)
 
-Authors:
- - Anna Christina Kolandjian
+Author: Anna Christina Kolandjian
  
 # 🎯 Goal
 This program counts unique words from an English text file, treating hyphen and apostrophe 
